@@ -1,0 +1,9 @@
+.env
+__pycache__/
+venv/
+*.pyc
+mlflow.db
+mlruns/
+models/saved/*.pkl
+data/raw/
+frontend/node_modules/
