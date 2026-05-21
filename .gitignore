@@ -7,3 +7,8 @@ mlruns/
 models/saved/*.pkl
 data/raw/
 frontend/node_modules/
+.cache/
+frontend_temp/
+venv/
+mlflow.db
+mlruns/

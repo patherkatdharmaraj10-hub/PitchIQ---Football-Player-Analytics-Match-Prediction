@@ -3,7 +3,19 @@
 
 A full-stack football analytics platform built with Python, FastAPI, React, and XGBoost.
 
-![Dashboard](data/sample/README.md)
+## Screenshots
+
+### Dashboard
+![Dashboard](data/screenshots/dashboard.png)
+
+### Match Predictor
+![Predictor](data/screenshots/predictor.png)
+
+### Players
+![Players](data/screenshots/players.png)
+
+### Standings
+![Standings](data/screenshots/standings.png)
 
 ## Live Demo
 - Frontend: Coming soon (Vercel)
@@ -12,7 +24,7 @@ A full-stack football analytics platform built with Python, FastAPI, React, and 
 ## Features
 - Real football data from StatsBomb open data
 - XGBoost match outcome prediction (Home/Draw/Away)
-- Player performance analytics
+- Player performance analytics with 200+ players
 - League standings table
 - Interactive React dashboard
 
@@ -52,8 +64,6 @@ cd frontend && npm install && npm run dev
 ```
 
 ## Project Structure
-
-
 ## API Endpoints
 | Method | Endpoint | Description |
 |--------|----------|-------------|
